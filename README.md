@@ -1,7 +1,8 @@
 # Digital Game-Based Learning Dataset
-This repository contains the anonymised dataset collected for _**“Evaluating the effectiveness of digital game-based learning (DGBL) for professional upskilling: Bringing construction safety knowledge into architects’ and engineers’ workplace”**_ project. The data is intended to support further analysis  and research in the field of educational technologies and DGBL approaches for professional development. 
+This repository contains the anonymised dataset collected for _**“Evaluating the effectiveness of digital game-based learning (DGBL) for professional upskilling: Bringing construction safety knowledge into architects' and engineers' workplace”**_ project. The data is intended to support further analysis  and research in the field of educational technologies and DGBL approaches for professional development. 
 
 **Principal investigator:** A/P Goh Yang Miang
+
 **Project Team:** Dr Juliana Tay, Ms Sufiana Safiena, Dr Michelle Lim, Mr Lan Tianxiang
 
 ## Project Information
@@ -10,16 +11,16 @@ This project was conducted in the context of teaching Design for Safety (DfS) sk
 - **Project website:** [https://cde.nus.edu.sg/dbe/cpfm/sarru/projects/ssd/][1]
 - **Tay, J., Goh, Y. M., Safiena, S., & Bound, H. (2022).** Designing digital game-based learning for professional upskilling: A systematic literature review. _Computers & Education_, 184, 104518. [https://doi.org/10.1016/j.compedu.2022.104518][2]
 - **Tay, J., Safiena, S., Lan, T., Lim, M. S., & Goh, Y. M. (2024).** Design for safety training for construction professionals: A digital game-based learning approach. _Safety Science_, 177, 106588. [https://doi.org/10.1016/j.ssci.2024.106588][3]
-- **Safiena, S., Tay, J., Miang Goh, Y., & Lim, M. (2023). **SafeSim Design: A digital game-based learning approach to address Design for Safety (DfS) competency. In G. Geng, X. Qian, L. H. Poh, & S. D. Pang (Eds.), _Proceedings of The 17th East Asian-Pacific Conference on Structural Engineering and Construction_, 2022 (Vol. 302, pp. 360–372). Springer Nature Singapore. [https://doi.org/10.1007/978-981-19-7331-4\_29][4]
+- **Safiena, S., Tay, J., Miang Goh, Y., & Lim, M. (2023).** SafeSim Design: A digital game-based learning approach to address Design for Safety (DfS) competency. In G. Geng, X. Qian, L. H. Poh, & S. D. Pang (Eds.), _Proceedings of The 17th East Asian-Pacific Conference on Structural Engineering and Construction_, 2022 (Vol. 302, pp. 360-372). Springer Nature Singapore. [https://doi.org/10.1007/978-981-19-7331-4\_29][4]
 
 This project is funded by **SkillsFuture Singapore (GA19-05)**. This project is approved by National University of Singapore (NUS) Institutional Review Board (IRB) under **NUS-IRB-2021-457**. 
 
 ## Dataset Structure
 The dataset consists of the following components:
 
-- **Legend: **This provided the descriptions of the variables within the dataset, explaining the purpose and nature of each item.
-- **Combined dataset: **This is the main dataset, which consolidated all information collected from various instruments. This includes participant data, survey responses, and quiz scores.
-- **Game dataset: **This included the data specific to the participants’ experience and interactions within SafeSim Design (SSD).
+- **Legend:** This provided the descriptions of the variables within the dataset, explaining the purpose and nature of each item.
+- **Combined dataset:** This is the main dataset, which consolidated all information collected from various instruments. This includes participant data, survey responses, and quiz scores.
+- **Game dataset:** This included the data specific to the participants' experience and interactions within SafeSim Design (SSD).
 - **Forum:** This data is related to the peer discussions (i.e., alternative solutions provided for the design risk within SSD) provided by the participants.
 
 ## Usage
