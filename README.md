@@ -1,5 +1,5 @@
 # Digital Game-Based Learning Dataset
-This repository contains the anonymised dataset collected for _**“Evaluating the effectiveness of digital game-based learning (DGBL) for professional upskilling: Bringing construction safety knowledge into architects' and engineers' workplace”**_ project. The data is intended to support further analysis  and research in the field of educational technologies and DGBL approaches for professional development. 
+This repository contains the toolkit developed and anonymised dataset collected for _**“Evaluating the effectiveness of digital game-based learning (DGBL) for professional upskilling: Bringing construction safety knowledge into architects' and engineers' workplace”**_ project. The data is intended to support further analysis  and research in the field of educational technologies and DGBL approaches for professional development. 
 
 **Principal investigator:** A/P Goh Yang Miang
 
